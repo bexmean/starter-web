@@ -1,3 +1,23 @@
 # robotstxt.org/
 
 User-agent: *
+abcdefghijklmnopqrstuvwxz;
+abcdefe 
+
+# robotstxt.org/
+
+User-agent: * 
+nsertabcdefghijklmnopqrstuvwxzo
+
+dog-food
+dogFood
+Dog-food
+Spine ohSome_Words Some-Words Dog-Food Dog-Food Dog.Food Dog_FooddogFood
+dogFood Dog.Food dog_food Dog_Food what stretching done
+nsert
+n sertnsertabcdefe nd:;
+
+mits
+
+dog.food Dog.Food dog.Food dogFood 
+T
